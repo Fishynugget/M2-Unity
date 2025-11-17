@@ -20,7 +20,8 @@
 ### Bovenaan: schietplek.
 ### Midden: veld met targets.
 ### Onderaan: opvang of doelgebied voor het einde van de beurt.
-### Levelschets
+
+## Levelschets
 ### Maak een eenvoudige schets van je startlevel met schietplek, targets en onderzijde. (Nog maken!)
 ### Voeg de schets toe aan de README. (Nog maken!)
 
