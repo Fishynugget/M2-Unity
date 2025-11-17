@@ -16,6 +16,8 @@
 ### Targets of bumps: wat raakt de bal. (Nog maken!)
 ### Score: je krijgt 1 punt per kapotgeschoten target.
 ### Doel: level is klaar als alle targets kapot zijn
+
+
 ## Stijl en sfeer
 ### Korte omschrijving van thema, kleuren en geluid. (Nog maken!)
 
