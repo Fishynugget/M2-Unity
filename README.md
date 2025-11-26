@@ -31,6 +31,10 @@
 ## Levelschets
 ![levelschets](nohzdyve.png)
 
+## 2.1: forces & collision
+### Bal gemaakt en targets toegevoegd.
+![2.1](gifs\M2_gdv_2.1.gif)
+
 
 ## Reflectie – Week 1
 
