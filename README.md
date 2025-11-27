@@ -36,6 +36,13 @@
 ![2.1](gifs\M2_gdv_2.1.gif)
 
 
+## 2.2: Aim, Shoot en Line.
+### Werkend kanon gemaakt.
+![2.2](gifs\M2_gdv_2.2.gif)
+### [Aim](Assets\scripts peggle\Aim.cs)
+### [Shoot](Assets\scripts peggle\Shoot.cs)
+
+
 ## Reflectie – Week 1
 
 ### Beantwoord kort in je README:
