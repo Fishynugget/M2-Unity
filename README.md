@@ -33,21 +33,21 @@
 
 ## 2.1: forces & collision
 ### Bal gemaakt en targets toegevoegd.
-![2.1](gifs\M2_gdv_2.1.gif)
+![2.1](gifs/M2_gdv_2.1.gif)
 ### [ShootBall](Peggle_game\Assets\scripts_peggle\ShootBall.cs)
 ### [TargetCollision](Peggle_game\Assets\scripts_peggle\TargetCollision.cs)
 
 
 ## 2.2: Aim, Shoot en Line.
 ### Werkend kanon gemaakt.
-![2.2](gifs\M2_gdv_2.2.gif)
+![2.2](gifs/M2_gdv_2.2.gif)
 ### [Aim](Peggle_game\Assets\scripts_peggle\Aim.cs)
 ### [Shoot](Peggle_game\Assets\scripts_peggle\Shoot.cs)
 
 
 ## 3.1: Score & Triggers.
 ### Score toegevoegd en peggles kunnen nu kapot.
-![3.1](gifs\M2_gdv_3.1.gif)
+![3.1](gifs/M2_gdv_3.1.gif)
 ### [Peggle](Peggle_game\Assets\scripts_peggle\Peggle.cs)
 ### [ScoreManager](Peggle_game\Assets\scripts_peggle\ScoreManager.cs)
 
