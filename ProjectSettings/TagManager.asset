@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Target
   - Peggle
+  - Combo_200
+  - Combo_175
+  - Combo_150
+  - Combo_125
+  - Ball
   layers:
   - Default
   - TransparentFX

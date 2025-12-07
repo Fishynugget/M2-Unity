@@ -31,7 +31,7 @@
 ## Levelschets
 ![levelschets](nohzdyve.png)
 
-## 2.1: forces & collision
+## 2.1: forces & collision.
 ### Bal gemaakt en targets toegevoegd.
 ![2.1](gifs/M2_gdv_2.1.gif)
 ### [ShootBall](Peggle_game\Assets\scripts_peggle\ShootBall.cs)
@@ -50,6 +50,13 @@
 ![3.1](gifs/M2_gdv_3.1.gif)
 ### [Peggle](Peggle_game\Assets\scripts_peggle\Peggle.cs)
 ### [ScoreManager](Peggle_game\Assets\scripts_peggle\ScoreManager.cs)
+
+
+## 3.2: Bumpers en Combo Systeem.
+### Score kan nu veranderen met combos.
+![3.2](gifs/M2_gdv_3.2.gif)
+### [BumperHit](Peggle_game\Assets\scripts_peggle\BumperHit.cs)
+### [ComboSysteem](Peggle_game\Assets\scripts_peggle\ComboSysteem.cs)
 
 
 ## Reflectie – Week 1

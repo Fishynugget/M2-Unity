@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Peggle : MonoBehaviour
 {
-    public int hitsToDestroy = 1;     // totaal aantal hits dat deze peg aankan
-    public int pointsPerHit = 15;     // aantal punten dat één hit waard is
+    public int hitsToDestroy = 2;     // totaal aantal hits dat deze peg aankan
+    public int pointsPerHit = 20;     // aantal punten dat één hit waard is
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
