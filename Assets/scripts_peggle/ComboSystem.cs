@@ -1,11 +1,14 @@
 using UnityEngine;
 using System.Collections.Generic;
+using System;
 
 public class ComboSystem : MonoBehaviour
 {
     private List<string> bumperTags = new List<string>();
 
     private int scoreMultiplier = 1;
+    
+    public static event Action<int, int> OnScoreChange;
 
     private void Start()
     {
@@ -32,7 +35,8 @@ public class ComboSystem : MonoBehaviour
                 bumperTags.Clear();
             }
         }
-
-        Debug.Log("Score multiplier: " + scoreMultiplier);
+        ScoreManager.Instance.AddScore(bumperValue * scoreMultiplier);
+        
+        OnScoreChange?.Invoke(ScoreManager.Instance.score, scoreMultiplier);
     }
 }

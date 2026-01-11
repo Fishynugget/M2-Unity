@@ -58,6 +58,16 @@
 ### [BumperHit](Peggle_game\Assets\scripts_peggle\BumperHit.cs)
 ### [ComboSysteem](Peggle_game\Assets\scripts_peggle\ComboSysteem.cs)
 
+## 4.1: Leveldesign en UI.
+### UI gemaakt.
+### De game heeft nu een startscherm, een laadscherm en de game zelf (het laadscherm is gewoon voor tussen de scenes in tijdens het switchen van scenes)
+![4.1](4.1.png)
+### Heb nog hulp nodig met de resoluties dus deze gif komt later.
+
+## 5.1:
+
+## 6.1:
+
 
 ## Reflectie – Week 1
 
@@ -66,6 +76,13 @@
 #### ik heb plezier gehad in canva(heel fijn programma).
 #### ik liep nergens tegenaan maar het duurde gewoon best lang om te maken.
 #### geen, daar waren we nog niet mee bezig.
+
+## Reflectie - Week 4
+
+#### Ik heb de UI gemaakt en de mogelijkheid om tussen scenes te switchen toegepast.
+#### Ik heb online dingen opgezocht.
+#### Het ging vrijwel allemaal goed behalve dat ik nog met de resoluties bezig moet omdat ik die niet helemaal snap.
+#### Alles gebruikt behalve de font.
 
 
 ## Idee(Hoort niet bij het conceptformat en is dus niet belangrijk)

@@ -11,6 +11,8 @@ TagManager:
   - Combo_150
   - Combo_125
   - Ball
+  - Score
+  - Multiplier
   layers:
   - Default
   - TransparentFX
