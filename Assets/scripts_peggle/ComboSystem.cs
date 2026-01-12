@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using System;
+using System.Threading.Tasks;
 
 public class ComboSystem : MonoBehaviour
 {
@@ -18,15 +19,15 @@ public class ComboSystem : MonoBehaviour
     {
         BumperHit.onBumperHit -= CheckForCombo;
     }
-    private void CheckForCombo(string tag, int bumperValue) {
+    private void CheckForCombo(Transform transform, int bumperValue) 
+    {
        
-        bumperTags.Add(tag);
+        bumperTags.Add(transform.gameobject.tag);
         if (bumperTags.Count > 1) {
 
             if (bumperTags[bumperTags.Count - 2] == bumperTags[bumperTags.Count - 1])
             {
 
-                Debug.Log("Combo detected with tag: " + tag);
                 scoreMultiplier++;
             }
             else

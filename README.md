@@ -64,7 +64,13 @@
 ![4.1](4.1.png)
 ### Heb nog hulp nodig met de resoluties dus deze gif komt later.
 
-## 5.1:
+## 4.2: Scores versturen.
+### UI verder gemaakt en nu laat het de score en multiplier zien.
+![4.2](gifs/M2_gdv_4.2.gif)
+### [UIScoreBoard](Peggle_game\Assets\scripts_peggle\UIScoreBoard.cs)
+
+
+## 5.2:
 
 ## 6.1:
 
@@ -76,6 +82,20 @@
 #### ik heb plezier gehad in canva(heel fijn programma).
 #### ik liep nergens tegenaan maar het duurde gewoon best lang om te maken.
 #### geen, daar waren we nog niet mee bezig.
+
+## Reflectie - Week 2
+
+#### Bal, kanon en targets gemaakt.
+#### Vooral docent om hulp gevraagd maar ook op internet opgezocht.
+#### Het ging prima maar ik liep soms vast.
+#### Alles afgekregen.
+
+## Reflectie - Week 3
+
+#### Deze week score, bumpers en combosysteem gemaakt.
+#### Docent om hulp gevraagd.
+#### Het ging wel prima.
+#### Alles af.
 
 ## Reflectie - Week 4
 
