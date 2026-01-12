@@ -70,7 +70,10 @@
 ### [UIScoreBoard](Peggle_game\Assets\scripts_peggle\UIScoreBoard.cs)
 
 
-## 5.2:
+## 5.2: Particles, Sounds en Shakes.
+### Particles en audio toegevoegd aan de bumpers.
+
+### [BumperHit](Peggle_game\Assets\scripts_peggle\BumperHit.cs)
 
 ## 6.1:
 

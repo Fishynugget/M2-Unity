@@ -22,7 +22,7 @@ public class ComboSystem : MonoBehaviour
     private void CheckForCombo(Transform transform, int bumperValue) 
     {
        
-        bumperTags.Add(transform.gameobject.tag);
+        bumperTags.Add(transform.gameObject.tag);
         if (bumperTags.Count > 1) {
 
             if (bumperTags[bumperTags.Count - 2] == bumperTags[bumperTags.Count - 1])

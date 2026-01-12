@@ -7,9 +7,11 @@ public class BumperHit : MonoBehaviour
     private ParticleSystem ps;
     [SerializeField] private int scoreValue = 100;
     public static event Action<Transform, int> onBumperHit;
+    private AudioSource audioSource;
 
     private void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         //Vraag het Particle System Component op als de game start en bewaar hem in je variabele, zodat je er later dingen mee kunt doen
         ps = GetComponent<ParticleSystem>();
 
@@ -23,6 +25,7 @@ public class BumperHit : MonoBehaviour
             onBumperHit?.Invoke(gameObject.transform, scoreValue);//bericht versturen dat er een bumper geraakt is. De tag en waarde sturen we mee
             //  Debug.Log("sdfg");
             onBumperHit?.Invoke(gameObject.transform, bumperValue);
+            audioSource.Play();
 
             //zet je Particle System hem eerst weer stil voor het geval hij nog niet klaar was met de vorige loop
             ps?.Stop();
