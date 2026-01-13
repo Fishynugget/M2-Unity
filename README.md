@@ -69,13 +69,16 @@
 ![4.2](gifs/M2_gdv_4.2.gif)
 ### [UIScoreBoard](Peggle_game\Assets\scripts_peggle\UIScoreBoard.cs)
 
-
 ## 5.2: Particles, Sounds en Shakes.
 ### Particles en audio toegevoegd aan de bumpers.
-
+### Ik heb de 3de optie gekozen.
+![5.2](gifs/M2_gdv_5.2.gif)
 ### [BumperHit](Peggle_game\Assets\scripts_peggle\BumperHit.cs)
 
-## 6.1:
+## 6.1: Zelf verzonnen feature.
+### Als er een score van 19840 wordt bereikt dan speelt er een video af in de achtergrond.
+
+
 
 
 ## Reflectie – Week 1
@@ -106,6 +109,13 @@
 #### Ik heb online dingen opgezocht.
 #### Het ging vrijwel allemaal goed behalve dat ik nog met de resoluties bezig moet omdat ik die niet helemaal snap.
 #### Alles gebruikt behalve de font.
+
+## Reflectie - Week 5
+
+#### De bumpers geven nu geluid en particles.
+#### Docent om hulp gevraagd.
+#### Het ging wel goed.
+#### Alles af behalve het extra ding.
 
 
 ## Idee(Hoort niet bij het conceptformat en is dus niet belangrijk)
