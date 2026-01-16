@@ -1,6 +1,5 @@
 # M2-Unity
-## Titel (werktitel)
-### Peggle
+## Peggle
 
 
 ## Genre
@@ -9,13 +8,14 @@
 
 ## Beschrijving
 ### De speler moet het cannon richten en dan afvuren zodat de balletjes kapot gaan en daarmee gaat de score omhoog.
+### Het spel is deels gebaseerd op Black Mirror: Bandersnatch, een interactieve film die (Niet meer) op netflix staat (Niet meer te kijken/spelen zonder het te piraten)
 
 
 ## Samenvatting van het spel en de mechanics:
 ### Je begint op het startscherm waarin je op start game kan klikken, je moet de muis ingedrukt houden en richten, je laat los om te schieten.
-## Je kan niet verliezen maar als je de special feature wilt dan moet je een score van 19840 bereiken, dan gaat er een video van de film waar het design op gebaseerd is spelen.
-## Als je klikt op restart game dan reset je level en dan verdwijnt de video weer.
-## Als je klikt op exit level dan ga je weer naar het startscherm.
+### Je kan niet verliezen maar als je de special feature wilt dan moet je een score van 19840 bereiken, dan gaat er een video van de film waar het design op gebaseerd is spelen.
+### Als je klikt op restart game dan reset je level en dan verdwijnt de video weer.
+### Als je klikt op exit level dan ga je weer naar het startscherm.
 
 
 ## Gameplaykern
@@ -69,7 +69,6 @@
 ### UI gemaakt.
 ### De game heeft nu een startscherm, een laadscherm en de game zelf (het laadscherm is gewoon voor tussen de scenes in tijdens het switchen van scenes)
 ![4.1](4.1.png)
-### Heb nog hulp nodig met de resoluties dus deze gif komt later.
 
 ## 4.2: Scores versturen.
 ### UI verder gemaakt en nu laat het de score en multiplier zien.
@@ -128,7 +127,7 @@
 
 ## Reflectie - Afronding
 
-#### Wat ik wilde maken is gelukt.
+#### Wat ik wilde maken is voor het grootste gedeelte gelukt.
 #### Ik heb veel nieuws geleerd maar dat ga ik niet gebruiken want ik ga fullstack kiezen.
 
 
