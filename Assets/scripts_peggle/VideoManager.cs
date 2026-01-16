@@ -9,10 +9,11 @@ public class VideoManager : MonoBehaviour
 {
     public RawImage image;
     private VideoPlayer videoPlayer;
-    private VideoSource videoSource;
+   
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        videoPlayer = GetComponent<VideoPlayer>();
         Application.runInBackground = true;
       //  StartCoroutine();
     }
@@ -20,14 +21,15 @@ public class VideoManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (ScoreManager.Instance.score == 19840)
+        if (Input.GetKeyDown(KeyCode.Return)){ 
+            videoPlayer.Play();
+        }
+
+        if (ScoreManager.Instance.score >= 19840)
         {
             videoPlayer.Play();
         }
-        else
-        {
-            videoPlayer.Stop();
-        }
+        
     }
 
 }

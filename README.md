@@ -11,21 +11,28 @@
 ### De speler moet het cannon richten en dan afvuren zodat de balletjes kapot gaan en daarmee gaat de score omhoog.
 
 
+## Samenvatting van het spel en de mechanics:
+### Je begint op het startscherm waarin je op start game kan klikken, je moet de muis ingedrukt houden en richten, je laat los om te schieten.
+## Je kan niet verliezen maar als je de special feature wilt dan moet je een score van 19840 bereiken, dan gaat er een video van de film waar het design op gebaseerd is spelen.
+## Als je klikt op restart game dan reset je level en dan verdwijnt de video weer.
+## Als je klikt op exit level dan ga je weer naar het startscherm.
+
+
 ## Gameplaykern
 ### Bal: dat design komt later want ik ben er nog niet over uit.
-### Targets of bumps: de balletjes met de rare tekens.
-### Score: je krijgt 15 punt per kapotgeschoten target.
-### Doel: level is klaar als alle targets kapot zijn
+### Targets: de witte balletjes.
+### Score: je krijgt 80 punten per kapotgeschoten target.
+### Doel: level is klaar als alle targets kapot zijn.
 
 
 ## Stijl en sfeer
-### felle kleuren en veel contrast erin en geinspireerd door een aflevering van een netflixserie.
+### felle kleuren en veel contrast erin en geinspireerd door een aflevering van een netflixserie (Die van netflix is afgehaald en is daardoor nergens meer te bekijken (laat staan spelen) tenzij je hem pirate maar dat is echt een heel gedoe als je hem werkend wilt hebben).
 
 
 ## Structuur van het level
 ### Bovenaan: schietplek.
 ### Midden: veld met targets.
-### Onderaan: opvang of doelgebied voor het einde van de beurt.
+### Onderaan: is er niet, het is hetzelfde als het midden.
 
 
 ## Levelschets
@@ -75,8 +82,10 @@
 ![5.2](gifs/M2_gdv_5.2.gif)
 ### [BumperHit](Peggle_game\Assets\scripts_peggle\BumperHit.cs)
 
-## 6.1: Zelf verzonnen feature.
+## 6.1: Afronden en uitbreiden.
+![6.1](gifs/M2_gdv_6.1.gif)
 ### Als er een score van 19840 wordt bereikt dan speelt er een video af in de achtergrond.
+### [VideoManager](Peggle_game\Assets\scripts_peggle\VideoManager.cs)
 
 
 
@@ -115,7 +124,12 @@
 #### De bumpers geven nu geluid en particles.
 #### Docent om hulp gevraagd.
 #### Het ging wel goed.
-#### Alles af behalve het extra ding.
+#### Alles af.
+
+## Reflectie - Afronding
+
+#### Wat ik wilde maken is gelukt.
+#### Ik heb veel nieuws geleerd maar dat ga ik niet gebruiken want ik ga fullstack kiezen.
 
 
 ## Idee(Hoort niet bij het conceptformat en is dus niet belangrijk)
