@@ -9,6 +9,7 @@
 ## Beschrijving
 ### De speler moet het cannon richten en dan afvuren zodat de balletjes kapot gaan en daarmee gaat de score omhoog.
 ### Het spel is deels gebaseerd op Black Mirror: Bandersnatch, een interactieve film die (Niet meer) op netflix staat (Niet meer te kijken/spelen zonder het te piraten)
+### [Trailer voor Bandersnatch](https://www.youtube.com/watch?v=7wnRi3Sclm8)
 
 
 ## Samenvatting van het spel en de mechanics:
