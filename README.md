@@ -1,8 +1,6 @@
 # M2-Unity
 ## Peggle
 
-# Game is toch nog niet af, moet nog wat kleine aanpassingen maken!
-
 ## Genre
 ### Physics-based arcade puzzelgame.
 
